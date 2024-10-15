@@ -1,14 +1,24 @@
+# Hi 👋, I am Loureen Valyne
+
 ![women in tech image GIF](women-in-tech.gif)
 
-- 👋 Hi, I’m @loureenvalyne
-- 👀 I’m interested in Data Science/ Data Analysis
-- 🌱 I’m currently growing
-- 💞️ I’m looking to collaborate on Excel, Power BI, Tableau, SQL, R and Python projects
-- 📫 get me @github.com/loureenvalyne
-- 😄 Pronouns: she/her
+I'm a Data Science and Data Analysis enthusiast with a passion for uncovering insights and solving complex problems using data. I enjoy working on projects that drive impact through evidence-based decisions. I'm continuously learning and growing, looking to collaborate on exciting data-driven projects, especially in the fields of health data analysis and tech for good. I am passionate about leveraging technology to improve health systems and empower communities.
+
+---
+
+- 🌱 Currently diving deeper into Data Science
 - ⚡ Fun fact: I genuinely enjoy working with numbers and uncovering the stories they tell
 
-<!---
-loureenvalyne/loureenvalyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+---
+
+# Skills
+ R | Python |SQL
+ Tableau | Power BI
+ Excel
+
+---
+
+# Connect with me
+https://www.linkedin.com/in/loureenvalyne
+
 --->
