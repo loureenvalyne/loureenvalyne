@@ -1,6 +1,9 @@
 # Hi 👋, I am Loureen Valyne
 
 ![women in tech image GIF](women-in-tech.gif)
+<p align="center">
+  <img src="women-in-tech.gif" alt="Your GIF Description" width="400" height="auto">
+</p>
 
 I'm a Data Science and Data Analysis enthusiast with a passion for uncovering insights and solving complex problems using data. I enjoy working on projects that drive impact through evidence-based decisions. I'm continuously learning and growing, looking to collaborate on exciting data-driven projects, especially in the fields of health data analysis and tech for good. I am passionate about leveraging technology to improve health systems and empower communities.
 
@@ -12,8 +15,8 @@ I'm a Data Science and Data Analysis enthusiast with a passion for uncovering in
 ---
 
 # Skills
- R | Python |SQL
- Tableau | Power BI
+ R | Python | SQL |
+ Tableau | Power BI |
  Excel
 
 ---
