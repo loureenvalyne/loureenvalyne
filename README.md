@@ -1,4 +1,4 @@
-![women in tech image GIF](Files/women in tech image.gif)
+![women in tech image GIF](women-in-tech.gif)
 
 - 👋 Hi, I’m @loureenvalyne
 - 👀 I’m interested in Data Science/ Data Analysis
