@@ -1,6 +1,5 @@
 # Hi 👋, I am Loureen Valyne
 
-![women in tech image GIF](women-in-tech.gif)
 <p align="center">
   <img src="women-in-tech.gif" alt="Your GIF Description" width="400" height="auto">
 </p>
